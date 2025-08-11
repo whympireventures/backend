@@ -9,8 +9,8 @@ const app = express();
 // Allow your Vercel frontend in production, localhost in dev
 const allowedOrigins = [
   'http://localhost:3000',             // local dev
-  'https://locatemycity.com , // your Vercel frontend
- '
+  'https://locatemycity.com' , // your Vercel frontend
+  
 ];
 
 app.use(cors({
@@ -102,3 +102,4 @@ const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
+
