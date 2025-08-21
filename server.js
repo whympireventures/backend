@@ -10,7 +10,8 @@ const app = express();
 const allowedOrigins = [
   'http://localhost:3000',             // local dev
   'https://locatemycity.com' , // your Vercel frontend
-  
+  'https://howfarprosite.vercel.app',
+
 ];
 
 app.use(cors({
