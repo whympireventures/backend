@@ -1,0 +1,859 @@
+{
+  "Alaska": [
+    {
+      "name": "Orange",
+      "state": "Alaska",
+      "slug": "orange-02",
+      "population": 38408,
+      "lat": -33.28397,
+      "lon": 149.10018,
+      "country": "AU",
+      "county": null,
+      "gnis_id": 2154219
+    },
+    {
+      "name": "White Rock",
+      "state": "Alaska",
+      "slug": "white-rock-02",
+      "population": 66450,
+      "lat": 49.02049,
+      "lon": -122.79507,
+      "country": "CA",
+      "county": null,
+      "gnis_id": 6180961
+    }
+  ],
+  "Arizona": [
+    {
+      "name": "Gold Coast",
+      "state": "Arizona",
+      "slug": "gold-coast-04",
+      "population": 640778,
+      "lat": -28.00029,
+      "lon": 153.43088,
+      "country": "AU",
+      "county": null,
+      "gnis_id": 2165087
+    },
+    {
+      "name": "Orange Walk",
+      "state": "Arizona",
+      "slug": "orange-walk-04",
+      "population": 15298,
+      "lat": 18.08124,
+      "lon": -88.56328,
+      "country": "BZ",
+      "county": null,
+      "gnis_id": 3581514
+    }
+  ],
+  "Alabama": [
+    {
+      "name": "Red Deer",
+      "state": "Alabama",
+      "slug": "red-deer-01",
+      "population": 73593,
+      "lat": 52.26682,
+      "lon": -113.802,
+      "country": "CA",
+      "county": null,
+      "gnis_id": 6118158
+    }
+  ],
+  "Colorado": [
+    {
+      "name": "Black Creek",
+      "state": "Colorado",
+      "slug": "black-creek-08",
+      "population": 21737,
+      "lat": 43.76489,
+      "lon": -79.52198,
+      "country": "CA",
+      "county": null,
+      "gnis_id": 12156858
+    }
+  ],
+  "93": [
+    {
+      "name": "Orange",
+      "state": "93",
+      "slug": "orange-93",
+      "population": 30530,
+      "lat": 44.13806,
+      "lon": 4.81025,
+      "country": "FR",
+      "county": null,
+      "gnis_id": 2989460
+    }
+  ],
+  "ENG": [
+    {
+      "name": "Wood Green",
+      "state": "ENG",
+      "slug": "wood-green-eng",
+      "population": 28453,
+      "lat": 51.6,
+      "lon": -0.11667,
+      "country": "GB",
+      "county": null,
+      "gnis_id": 2633653
+    },
+    {
+      "name": "Woodford Green",
+      "state": "ENG",
+      "slug": "woodford-green-eng",
+      "population": 22803,
+      "lat": 51.60938,
+      "lon": 0.02329,
+      "country": "GB",
+      "county": null,
+      "gnis_id": 2633655
+    },
+    {
+      "name": "Palmers Green",
+      "state": "ENG",
+      "slug": "palmers-green-eng",
+      "population": 15162,
+      "lat": 51.61794,
+      "lon": -0.11012,
+      "country": "GB",
+      "county": null,
+      "gnis_id": 2640667
+    },
+    {
+      "name": "Acocks Green",
+      "state": "ENG",
+      "slug": "acocks-green-eng",
+      "population": 26635,
+      "lat": 52.45,
+      "lon": -1.81667,
+      "country": "GB",
+      "county": null,
+      "gnis_id": 2657703
+    },
+    {
+      "name": "Bethnal Green",
+      "state": "ENG",
+      "slug": "bethnal-green-eng",
+      "population": 17590,
+      "lat": 51.52718,
+      "lon": -0.06109,
+      "country": "GB",
+      "county": null,
+      "gnis_id": 6690989
+    },
+    {
+      "name": "Bartley Green",
+      "state": "ENG",
+      "slug": "bartley-green-eng",
+      "population": 25473,
+      "lat": 52.43532,
+      "lon": -1.99707,
+      "country": "GB",
+      "county": null,
+      "gnis_id": 7302130
+    },
+    {
+      "name": "Golders Green",
+      "state": "ENG",
+      "slug": "golders-green-eng",
+      "population": 18818,
+      "lat": 51.57631,
+      "lon": -0.20033,
+      "country": "GB",
+      "county": null,
+      "gnis_id": 7535506
+    },
+    {
+      "name": "Norris Green",
+      "state": "ENG",
+      "slug": "norris-green-eng",
+      "population": 19610,
+      "lat": 53.44513,
+      "lon": -2.92073,
+      "country": "GB",
+      "county": null,
+      "gnis_id": 11669849
+    }
+  ],
+  "FL": [
+    {
+      "name": "Port Orange",
+      "state": "FL",
+      "slug": "port-orange-fl",
+      "population": 59866,
+      "lat": 29.13832,
+      "lon": -80.99561,
+      "country": "US",
+      "county": null,
+      "gnis_id": 4169156
+    }
+  ],
+  "KY": [
+    {
+      "name": "Bowling Green",
+      "state": "KY",
+      "slug": "bowling-green-ky",
+      "population": 63616,
+      "lat": 36.99032,
+      "lon": -86.4436,
+      "country": "US",
+      "county": null,
+      "gnis_id": 4285268
+    }
+  ],
+  "MD": [
+    {
+      "name": "Green Haven",
+      "state": "MD",
+      "slug": "green-haven-md",
+      "population": 19326,
+      "lat": 39.13955,
+      "lon": -76.54774,
+      "country": "US",
+      "county": null,
+      "gnis_id": 4356783
+    },
+    {
+      "name": "Silver Spring",
+      "state": "MD",
+      "slug": "silver-spring-md",
+      "population": 71452,
+      "lat": 38.99067,
+      "lon": -77.02609,
+      "country": "US",
+      "county": null,
+      "gnis_id": 4369596
+    },
+    {
+      "name": "White Oak",
+      "state": "MD",
+      "slug": "white-oak-md",
+      "population": 17403,
+      "lat": 39.03983,
+      "lon": -76.99303,
+      "country": "US",
+      "county": null,
+      "gnis_id": 4373449
+    },
+    {
+      "name": "Suitland-Silver Hill",
+      "state": "MD",
+      "slug": "suitland-silver-hill-md",
+      "population": 33515,
+      "lat": 38.84685,
+      "lon": -76.92591,
+      "country": "US",
+      "county": null,
+      "gnis_id": 7259061
+    }
+  ],
+  "MO": [
+    {
+      "name": "Blue Springs",
+      "state": "MO",
+      "slug": "blue-springs-mo",
+      "population": 54148,
+      "lat": 39.01695,
+      "lon": -94.28161,
+      "country": "US",
+      "county": null,
+      "gnis_id": 4377664
+    }
+  ],
+  "OH": [
+    {
+      "name": "White Oak",
+      "state": "OH",
+      "slug": "white-oak-oh",
+      "population": 19167,
+      "lat": 39.21311,
+      "lon": -84.59939,
+      "country": "US",
+      "county": null,
+      "gnis_id": 4528259
+    },
+    {
+      "name": "Bowling Green",
+      "state": "OH",
+      "slug": "bowling-green-oh",
+      "population": 31246,
+      "lat": 41.37477,
+      "lon": -83.65132,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5147968
+    },
+    {
+      "name": "Green",
+      "state": "OH",
+      "slug": "green-oh",
+      "population": 25898,
+      "lat": 40.94589,
+      "lon": -81.48317,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5156371
+    }
+  ],
+  "TX": [
+    {
+      "name": "Orange",
+      "state": "TX",
+      "slug": "orange-tx",
+      "population": 19347,
+      "lat": 30.09299,
+      "lon": -93.73655,
+      "country": "US",
+      "county": null,
+      "gnis_id": 4716805
+    },
+    {
+      "name": "White Settlement",
+      "state": "TX",
+      "slug": "white-settlement-tx",
+      "population": 17077,
+      "lat": 32.75957,
+      "lon": -97.45835,
+      "country": "US",
+      "county": null,
+      "gnis_id": 4741616
+    }
+  ],
+  "IL": [
+    {
+      "name": "Blue Island",
+      "state": "IL",
+      "slug": "blue-island-il",
+      "population": 23652,
+      "lat": 41.65726,
+      "lon": -87.68005,
+      "country": "US",
+      "county": null,
+      "gnis_id": 4885186
+    }
+  ],
+  "MN": [
+    {
+      "name": "Red Wing",
+      "state": "MN",
+      "slug": "red-wing-mn",
+      "population": 16445,
+      "lat": 44.56247,
+      "lon": -92.5338,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5042773
+    },
+    {
+      "name": "White Bear Lake",
+      "state": "MN",
+      "slug": "white-bear-lake-mn",
+      "population": 25205,
+      "lat": 45.08469,
+      "lon": -93.00994,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5052658
+    }
+  ],
+  "NJ": [
+    {
+      "name": "East Orange",
+      "state": "NJ",
+      "slug": "east-orange-nj",
+      "population": 64949,
+      "lat": 40.76732,
+      "lon": -74.20487,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5097441
+    },
+    {
+      "name": "Orange",
+      "state": "NJ",
+      "slug": "orange-nj",
+      "population": 34457,
+      "lat": 40.77066,
+      "lon": -74.23265,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5102213
+    },
+    {
+      "name": "South Orange",
+      "state": "NJ",
+      "slug": "south-orange-nj",
+      "population": 17295,
+      "lat": 40.74899,
+      "lon": -74.26126,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5104836
+    },
+    {
+      "name": "West Orange",
+      "state": "NJ",
+      "slug": "west-orange-nj",
+      "population": 48131,
+      "lat": 40.79871,
+      "lon": -74.23904,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5106298
+    }
+  ],
+  "NY": [
+    {
+      "name": "White Plains",
+      "state": "NY",
+      "slug": "white-plains-ny",
+      "population": 58459,
+      "lat": 41.03399,
+      "lon": -73.76291,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5144336
+    }
+  ],
+  "WI": [
+    {
+      "name": "Green Bay",
+      "state": "WI",
+      "slug": "green-bay-wi",
+      "population": 105207,
+      "lat": 44.51916,
+      "lon": -88.01983,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5254962
+    }
+  ],
+  "AZ": [
+    {
+      "name": "Green Valley",
+      "state": "AZ",
+      "slug": "green-valley-az",
+      "population": 21391,
+      "lat": 31.85425,
+      "lon": -110.9937,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5296802
+    }
+  ],
+  "CA": [
+    {
+      "name": "Orange",
+      "state": "CA",
+      "slug": "orange-ca",
+      "population": 140992,
+      "lat": 33.78779,
+      "lon": -117.85311,
+      "country": "US",
+      "county": null,
+      "gnis_id": 5379513
+    },
+    {
+      "name": "Silver Lake",
+      "state": "CA",
+      "slug": "silver-lake-ca",
+      "population": 32890,
+      "lat": 34.08668,
+      "lon": -118.27023,
+      "country": "US",
+      "county": null,
+      "gnis_id": 10104153
+    }
+  ],
+  "WA": [
+    {
+      "name": "Silver Firs",
+      "state": "WA",
+      "slug": "silver-firs-wa",
+      "population": 20891,
+      "lat": 47.86602,
+      "lon": -122.1551,
+      "country": "US",
+      "county": null,
+      "gnis_id": 7176035
+    }
+  ],
+  "07": [
+    {
+      "name": "White River",
+      "state": "07",
+      "slug": "white-river",
+      "population": 25607,
+      "lat": -25.33177,
+      "lon": 31.01166,
+      "country": "ZA",
+      "county": null,
+      "gnis_id": 938694
+    }
+  ],
+  "NC": [
+    {
+      "name": "Greensboro",
+      "state": "NC",
+      "slug": "greensboro-nc",
+      "population": 285342,
+      "lat": 36.07264,
+      "lon": -79.79198,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1020828
+    }
+  ],
+  "GA": [
+    {
+      "name": "Blue Ridge",
+      "state": "GA",
+      "slug": "blue-ridge-ga",
+      "population": 1290,
+      "lat": 34.86397,
+      "lon": -84.32409,
+      "country": "US",
+      "county": null,
+      "gnis_id": 354672
+    }
+  ],
+  "OR": [
+    {
+      "name": "Silverton",
+      "state": "OR",
+      "slug": "silverton-or",
+      "population": 10484,
+      "lat": 45.00512,
+      "lon": -122.78315,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1159651
+    }
+  ],
+  "SC": [
+    {
+      "name": "Greenville",
+      "state": "SC",
+      "slug": "greenville-sc",
+      "population": 72828,
+      "lat": 34.85262,
+      "lon": -82.39401,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1246286
+    }
+  ],
+  "VT": [
+    {
+      "name": "White River Junction",
+      "state": "VT",
+      "slug": "white-river-junction-vt",
+      "population": 2286,
+      "lat": 43.64896,
+      "lon": -72.31926,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1460271
+    }
+  ],
+  "NV": [
+    {
+      "name": "Silver Peak",
+      "state": "NV",
+      "slug": "silver-peak-nv",
+      "population": 107,
+      "lat": 37.75493,
+      "lon": -117.63481,
+      "country": "US",
+      "county": null,
+      "gnis_id": 847565
+    }
+  ],
+  "MI": [
+    {
+      "name": "Grayling",
+      "state": "MI",
+      "slug": "grayling-mi",
+      "population": 1884,
+      "lat": 44.6614,
+      "lon": -84.71475,
+      "country": "US",
+      "county": null,
+      "gnis_id": 627131
+    }
+  ],
+  "PA": [
+    {
+      "name": "Blue Bell",
+      "state": "PA",
+      "slug": "blue-bell-pa",
+      "population": 6240,
+      "lat": 40.15233,
+      "lon": -75.26629,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1213644
+    }
+  ],
+  "IN": [
+    {
+      "name": "Brownsburg",
+      "state": "IN",
+      "slug": "brownsburg-in",
+      "population": 26520,
+      "lat": 39.84338,
+      "lon": -86.39777,
+      "country": "US",
+      "county": null,
+      "gnis_id": 449628
+    }
+  ],
+  "TN": [
+    {
+      "name": "Brownsville",
+      "state": "TN",
+      "slug": "brownsville-tn",
+      "population": 9489,
+      "lat": 35.59397,
+      "lon": -89.26229,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1300501
+    }
+  ],
+  "MS": [
+    {
+      "name": "Greenwood",
+      "state": "MS",
+      "slug": "greenwood-ms",
+      "population": 14090,
+      "lat": 33.51623,
+      "lon": -90.17953,
+      "country": "US",
+      "county": null,
+      "gnis_id": 690370
+    }
+  ],
+  "IA": [
+    {
+      "name": "Orange City",
+      "state": "IA",
+      "slug": "orange-city-ia",
+      "population": 6238,
+      "lat": 42.99943,
+      "lon": -96.0583,
+      "country": "US",
+      "county": null,
+      "gnis_id": 459988
+    }
+  ],
+  "KS": [
+    {
+      "name": "Silver Lake",
+      "state": "KS",
+      "slug": "silver-lake-ks",
+      "population": 1390,
+      "lat": 39.10555,
+      "lon": -95.8586,
+      "country": "US",
+      "county": null,
+      "gnis_id": 478096
+    }
+  ],
+  "UT": [
+    {
+      "name": "Orangeville",
+      "state": "UT",
+      "slug": "orangeville-ut",
+      "population": 1263,
+      "lat": 39.22719,
+      "lon": -111.05349,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1444091
+    }
+  ],
+  "WY": [
+    {
+      "name": "Green River",
+      "state": "WY",
+      "slug": "green-river-wy",
+      "population": 11595,
+      "lat": 41.52858,
+      "lon": -109.46625,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1589363
+    }
+  ],
+  "ME": [
+    {
+      "name": "Greenville",
+      "state": "ME",
+      "slug": "greenville-me",
+      "population": 1476,
+      "lat": 45.4595,
+      "lon": -69.59061,
+      "country": "US",
+      "county": null,
+      "gnis_id": 567705
+    }
+  ],
+  "AR": [
+    {
+      "name": "Greenwood",
+      "state": "AR",
+      "slug": "greenwood-ar",
+      "population": 9524,
+      "lat": 35.21565,
+      "lon": -94.25577,
+      "country": "US",
+      "county": null,
+      "gnis_id": 77106
+    }
+  ],
+  "LA": [
+    {
+      "name": "Golden Meadow",
+      "state": "LA",
+      "slug": "golden-meadow-la",
+      "population": 1961,
+      "lat": 29.37911,
+      "lon": -90.26008,
+      "country": "US",
+      "county": null,
+      "gnis_id": 543105
+    }
+  ],
+  "OK": [
+    {
+      "name": "Blackwell",
+      "state": "OK",
+      "slug": "blackwell-ok",
+      "population": 6737,
+      "lat": 36.80448,
+      "lon": -97.28282,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1090181
+    }
+  ],
+  "NM": [
+    {
+      "name": "Silver City",
+      "state": "NM",
+      "slug": "silver-city-nm",
+      "population": 9755,
+      "lat": 32.77008,
+      "lon": -108.28033,
+      "country": "US",
+      "county": null,
+      "gnis_id": 910975
+    }
+  ],
+  "NE": [
+    {
+      "name": "Red Cloud",
+      "state": "NE",
+      "slug": "red-cloud-ne",
+      "population": 1022,
+      "lat": 40.0889,
+      "lon": -98.51955,
+      "country": "US",
+      "county": null,
+      "gnis_id": 831821
+    }
+  ],
+  "ID": [
+    {
+      "name": "Blackfoot",
+      "state": "ID",
+      "slug": "blackfoot-id",
+      "population": 11936,
+      "lat": 43.19047,
+      "lon": -112.34498,
+      "country": "US",
+      "county": null,
+      "gnis_id": 396374
+    }
+  ],
+  "SD": [
+    {
+      "name": "Whitewood",
+      "state": "SD",
+      "slug": "whitewood-sd",
+      "population": 884,
+      "lat": 44.46137,
+      "lon": -103.63825,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1258807
+    }
+  ],
+  "ND": [
+    {
+      "name": "Orange",
+      "state": "ND",
+      "slug": "orange-nd",
+      "population": 56,
+      "lat": 48.05667,
+      "lon": -97.94038,
+      "country": "US",
+      "county": null,
+      "gnis_id": 1030360
+    }
+  ],
+  "MT": [
+    {
+      "name": "Whitefish",
+      "state": "MT",
+      "slug": "whitefish-mt",
+      "population": 8070,
+      "lat": 48.41108,
+      "lon": -114.33763,
+      "country": "US",
+      "county": null,
+      "gnis_id": 791954
+    }
+  ],
+  "ON": [
+    {
+      "name": "Orangeville",
+      "state": "ON",
+      "slug": "orangeville-on",
+      "population": 30800,
+      "lat": 43.9168,
+      "lon": -80.09967,
+      "country": "CA",
+      "county": null,
+      "gnis_id": 6138665
+    }
+  ],
+  "QC": [
+    {
+      "name": "Greenfield Park",
+      "state": "QC",
+      "slug": "greenfield-park-qc",
+      "population": 17084,
+      "lat": 45.48909,
+      "lon": -73.46556,
+      "country": "CA",
+      "county": null,
+      "gnis_id": 6138665
+    }
+  ],
+  "NS": [
+    {
+      "name": "Greenwood",
+      "state": "NS",
+      "slug": "greenwood-ns",
+      "population": 3628,
+      "lat": 44.98345,
+      "lon": -64.89879,
+      "country": "CA",
+      "county": null,
+      "gnis_id": 6138665
+    }
+  ]
+}
