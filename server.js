@@ -7,8 +7,13 @@ const app = express();
 
 // Explicitly allowed origins
 const allowedOrigins = [
+<<<<<<< HEAD
   "http://localhost:3000",
   "https://locate-my-city-blue.vercel.app"
+=======
+  'http://localhost:3000',
+  'https://locatemycitywebmain.vercel.app',
+>>>>>>> 77c47b2b8b23855a0b91e9144e1a091e0a3a935f
 ];
 
 app.use(cors({
